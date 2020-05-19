@@ -1,14 +1,10 @@
 truc
 new
 1
-<<<<<<< HEAD
 modif via master
 machin
 truc
-<<<<<<< HEAD
-=======
-=======
-modif 090
->>>>>>> 9f191ff... file1 modif
+
+
 cherry
->>>>>>> 954af8c... file1 modified
+
